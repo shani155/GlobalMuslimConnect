@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1031960120280",
+    "project_id": "globalmuslimconnect-13b9b",
+    "storage_bucket": "globalmuslimconnect-13b9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031960120280:android:fecf95d8dbc6ca3561c0ad",
+        "android_client_info": {
+          "package_name": "com.example.globalmuslimconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArtbWlbx4npa6HQb_G4SdewDajcF9V_q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
